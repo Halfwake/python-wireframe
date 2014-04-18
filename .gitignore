@@ -1,0 +1,8 @@
+# Editors
+*.swp
+*~
+~*
+
+# Python
+*.pyc
+*.pyo

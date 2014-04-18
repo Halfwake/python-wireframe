@@ -1,0 +1,5 @@
+3D Wiremesh in Pygame
+
+Based off of the tutorial here -> http://www.petercollingridge.co.uk/pygame-3d-graphics-tutorial
+
+keys that rotate the wireframe -> q,w,a,s
